@@ -1,7 +1,7 @@
 # brainlez Coders! : into the light
 
 A 128 byte DOS intro written by pestis / bC!, compofiller to the
-Lovebyte 2022 128b intro competition.
+Lovebyte 2023 128b intro competition.
 
 Source code: https://github.com/vsariola/into-the-light
 
